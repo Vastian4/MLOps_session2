@@ -98,6 +98,7 @@ if __name__ == '__main__':
     
     # train()
     # evaluate("model.pth")
+    
     app()
-    print("breddabredda")
+    
     
